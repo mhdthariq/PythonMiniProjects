@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82c28842-b012-4c7f-af4f-64d3f3ce4899" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PythonMiniProjects/NumberGuessingGame.py" afterDir="false" />
+    <list default="true" id="82c28842-b012-4c7f-af4f-64d3f3ce4899" name="Changes" comment="add NumberGuessingGame.py">
+      <change afterPath="$PROJECT_DIR$/../PythonMiniProjects/RockPaperScissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   "keyToString": {
     "Python.NumberGuessingGame.executor": "Run",
     "Python.QuizGame.executor": "Run",
+    "Python.RockPaperScissors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -218,16 +220,30 @@
       <option name="presentableId" value="Default" />
       <updated>1735257928515</updated>
       <workItem from="1735257929534" duration="532000" />
-      <workItem from="1735262196395" duration="5678000" />
+      <workItem from="1735262196395" duration="7493000" />
     </task>
+    <task id="LOCAL-00001" summary="add NumberGuessingGame.py">
+      <option name="closed" value="true" />
+      <created>1735283536292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735283536292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add NumberGuessingGame.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NumberGuessingGame.py" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonMiniProjects$QuizGame.coverage" NAME="QuizGame Coverage Results" MODIFIED="1735273110138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonMiniProjects" />
     <SUITE FILE_PATH="coverage/PythonMiniProject$QuizGame.coverage" NAME="QuizGame Coverage Results" MODIFIED="1735262961894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonMiniProjects$NumberGuessingGame.coverage" NAME="NumberGuessingGame Coverage Results" MODIFIED="1735283196515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonMiniProjects" />
+    <SUITE FILE_PATH="coverage/PythonMiniProjects$NumberGuessingGame.coverage" NAME="NumberGuessingGame Coverage Results" MODIFIED="1735283339673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonMiniProjects" />
+    <SUITE FILE_PATH="coverage/PythonMiniProjects$RockPaperScissors.coverage" NAME="RockPaperScissors Coverage Results" MODIFIED="1735285571838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonMiniProjects" />
   </component>
 </project>
