@@ -46,6 +46,6 @@ if play == "yes":
     else:
         print("Not a valid option. Game Over!")
 
-    print("Thanks for playing!")
+    print(f"Thanks for playing {name}!")
 else:
     print("Okay, goodbye!")
